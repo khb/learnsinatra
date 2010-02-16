@@ -15,3 +15,7 @@ end
 get '/people' do
   "People Page"
 end
+
+get '/place' do
+  "Place Page"
+end
