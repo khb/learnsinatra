@@ -11,3 +11,7 @@ end
 get '/contact' do
   "Contact Page"
 end
+
+get '/people' do
+  "People Page"
+end
